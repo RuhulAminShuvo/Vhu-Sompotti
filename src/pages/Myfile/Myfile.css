@@ -1,0 +1,17 @@
+.myfile-buutton {
+  display: flex;
+  justify-content: space-between;
+}
+
+th {
+  text-align: center !important;
+}
+
+.myfile-table {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  left: 10rem;
+  top: 7rem;
+  /* z-index: -200; */
+}
